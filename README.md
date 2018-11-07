@@ -11,7 +11,7 @@ In the method calculateTFerma() {
   * Check that there is a natural solution from 1 to 100 with a degree of n = 2.
   * Output values.
   
-  **:-Conclusion-:->** If we assign a value n to a number greater than n > 2. 
+  **Conclusion:** If we assign a value n to a number greater than n > 2. 
                        That program does not display anything to us. 
                        This proves to us that there are no natural solutions from 1 to 100 n> 2.
 
@@ -23,7 +23,7 @@ In the method calcExpression() {
   * Check if an even number then a negative sign else. Otherwise a positive sign.
   * Output values.
   
-  **:-Conclusion-:->**  A cycle with branching operators, 
+  **Conclusion:**  A cycle with branching operators, 
                        for an even number we have a difference of values, 
                        for an odd value we have an addition. Values distributed by cycle.
 
