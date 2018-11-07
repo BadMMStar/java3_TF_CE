@@ -23,7 +23,7 @@ In the method calcExpression() {
   * Check if an even number then a negative sign else. Otherwise a positive sign.
   * Output values.
   
-  **:-Conclusio-:->**  A cycle with branching operators, 
+  **:-Conclusion-:->**  A cycle with branching operators, 
                        for an even number we have a difference of values, 
                        for an odd value we have an addition. Values distributed by cycle.
 
